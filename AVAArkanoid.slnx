@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AVAArkanoid/AVAArkanoid.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AVAArkanoid.Tests/AVAArkanoid.Tests.csproj" />
+  </Folder>
+</Solution>
